@@ -56,5 +56,5 @@
 | 49 ||[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 50 ||[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 51 ||[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 52 ||[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 52 ||[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||| 
 | 53 ||[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
